@@ -2,6 +2,9 @@
 
 ## Setup
 
+Please update CustomApp API Key and Secret in `.env` .
+And then run install
+
 ```
 npm install
 ```
